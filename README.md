@@ -9,7 +9,6 @@
   <a href="https://www.linkedin.com/in/adnan-kafri-75021131b/"><img src="https://img.shields.io/badge/LinkedIn-Adnan%20Kafri-0077B5?style=flat&logo=linkedin" /></a>
   <a href="mailto:adnanzz444@gmail.com"><img src="https://img.shields.io/badge/Email-adnanzz444@gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
   <a href="https://codeforces.com/profile/Adnan_k"><img src="https://img.shields.io/badge/Codeforces-Adnan__k-1F8ACB?style=flat&logo=codeforces&logoColor=white" /></a>
-  <a href="https://carvindex.com"><img src="https://img.shields.io/badge/Live%20Project-carvindex.com-00C853?style=flat&logo=google-chrome&logoColor=white" /></a>
 </p>
 
 ---

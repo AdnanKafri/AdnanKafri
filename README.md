@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Adnan Kafri 👋</h1>
+<h1 align="center">Hi, I'm Adnan Kafri </h1>
 
 <p align="center">
   <b>Computer Engineer · Backend Developer · AI Enthusiast</b><br/>

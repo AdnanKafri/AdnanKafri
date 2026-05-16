@@ -106,4 +106,4 @@ Full course registration platform with student enrollment tracking and admin inv
 
 ---
 
-<p align="center">💬 Feel free to reach out for freelance work or collaboration.</p>
+<p align="center">💬 Feel free to reach out for freelance work or collaboration!</p>

@@ -53,7 +53,7 @@ Git · GitHub · Postman · Linux · OOP · C++ · Java · SQL
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects!
 
 ### 🕵️ [Deepfake Detection Website](https://github.com/AdnanKafri/Deepfake-Detection-Website)
 

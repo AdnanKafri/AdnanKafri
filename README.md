@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>Computer Engineer · Backend Developer · AI Enthusiast</b><br/>
-  Building secure, scalable web platforms & AI-driven systems
+  Building secure, scalable web platforms & AI-driven systems!
 </p>
 
 <p align="center">
